@@ -1,0 +1,63 @@
+
+.center {
+    display: block;
+    margin-left: 100;
+    margin-right: auto;
+    width: 80%;
+}
+
+body {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/891/661/74/pattern-black-floral-dark-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+label {
+    color: white;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  color: black;
+  font-size: 16px;
+}
+
+.card h2 {
+  font-size: 20px;
+  margin-top: 0px;
+}
+
+.card p {
+  margin-bottom: 0px;
+}
+
+.container {
+  color: white;
+}
+
+.honesty-statement {
+  color: white;
+}
