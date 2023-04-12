@@ -62,3 +62,11 @@ label {
   color: white;
 }
 
+a {
+  color: #4c4c4c;
+}
+
+a:hover {
+   color: #9dc183;
+}
+
