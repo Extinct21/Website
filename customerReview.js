@@ -1,5 +1,5 @@
 var reviews = [
-    {name: "John Doe", comment: "This game is amazing!", rating: 5},
+    {name: "John Doe", comment: "I really like the startegy aspect of this game", rating: 5},
     {name: "Jane Smith", comment: "I love playing this game against my friends.", rating: 4},
     {name: "Samantha Lee", comment: "This game is too difficult for me.", rating: 2},
     {name: "Bob Johnson", comment: "It's okay, not really into these games", rating: 3},
