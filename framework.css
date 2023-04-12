@@ -67,5 +67,11 @@ header {
     background-size: cover;   
     padding-top: 25%;
     font-family: 'Dancing Script', cursive;
+    font-size: 14px;
+}
+
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
 }
 
